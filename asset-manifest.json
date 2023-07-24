@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/stellarquestversion1/static/css/main.d3c79f7d.css",
+    "main.js": "/stellarquestversion1/static/js/main.11d2c373.js",
+    "static/media/deathstar.svg": "/stellarquestversion1/static/media/deathstar.81df5df6cbd1b062946639913a42caa6.svg",
+    "static/media/interior1.svg": "/stellarquestversion1/static/media/interior1.2ee14b871f333453c939b8e1f48e1a0c.svg",
+    "static/media/interior2.svg": "/stellarquestversion1/static/media/interior2.f1e4fe4eb6253a9f4a72f424afce653a.svg",
+    "static/media/NewsImage.svg": "/stellarquestversion1/static/media/NewsImage.f1b24df56cfc1ef6f6ba591b6d4598ff.svg",
+    "static/media/galaxy-pic.svg": "/stellarquestversion1/static/media/galaxy-pic.91d4b6a2f4d89f312d7825c43c3ee8a5.svg",
+    "static/media/planetPOV.svg": "/stellarquestversion1/static/media/planetPOV.fb34ccb785bde40990ecb80bd837a350.svg",
+    "static/media/sideImage.svg": "/stellarquestversion1/static/media/sideImage.a3cf66ceba16f2479b432c96ca8da9ab.svg",
+    "static/media/moon2.svg": "/stellarquestversion1/static/media/moon2.dcf011ec76d359534c5d73fb82128cd6.svg",
+    "static/media/JonBruce.svg": "/stellarquestversion1/static/media/JonBruce.916054aae0db9d53d00146a45e0c5250.svg",
+    "static/media/astronaut.svg": "/stellarquestversion1/static/media/astronaut.08e1b31272ad3b13836e73b887b4647e.svg",
+    "static/media/background2.jpg": "/stellarquestversion1/static/media/background2.d64d6469df1248585d48.jpg",
+    "static/media/spaceship.png": "/stellarquestversion1/static/media/spaceship.34c5be07ceb311ab9bf0.png",
+    "static/media/jupiter.png": "/stellarquestversion1/static/media/jupiter.2e80bd0e49df0107ab96.png",
+    "static/media/saturn.png": "/stellarquestversion1/static/media/saturn.988cd5874eabdb2e3885.png",
+    "static/media/mars.png": "/stellarquestversion1/static/media/mars.a3e29b6b1e6d6899289c.png",
+    "static/media/moon.png": "/stellarquestversion1/static/media/moon.a42f417f1d5a3e3b0932.png",
+    "static/media/logo.svg": "/stellarquestversion1/static/media/logo.275f402d0f3f428249e1e7d277b8d4c7.svg",
+    "static/media/instagram.svg": "/stellarquestversion1/static/media/instagram.79fa09bf4d8df9ce243dd8347d11269a.svg",
+    "static/media/twitter.svg": "/stellarquestversion1/static/media/twitter.b1681fdd220fb8ac27774cc5e3da10d7.svg",
+    "static/media/star-1.svg": "/stellarquestversion1/static/media/star-1.16797acc7c7dc9d53c33c90646b035bd.svg",
+    "index.html": "/stellarquestversion1/index.html",
+    "static/media/email.svg": "/stellarquestversion1/static/media/email.800ef83a58f5bb1c7ec897cd062c13e0.svg",
+    "static/media/facebook.svg": "/stellarquestversion1/static/media/facebook.3d7d0834a5da3dea179ee01d2da0c9ea.svg",
+    "main.d3c79f7d.css.map": "/stellarquestversion1/static/css/main.d3c79f7d.css.map",
+    "main.11d2c373.js.map": "/stellarquestversion1/static/js/main.11d2c373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c79f7d.css",
+    "static/js/main.11d2c373.js"
+  ]
+}
