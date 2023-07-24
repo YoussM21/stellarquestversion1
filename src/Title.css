@@ -1,0 +1,56 @@
+.box {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.slogan-wrapper {
+    border: 0px none;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    margin-top: 10vh;
+    margin-left: 15vw;
+}
+
+.slogan {
+    height: 192px;
+    width: 420px;
+    left: 100px;
+}
+
+.text-wrapper {
+    color: #ffffff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+}
+
+.text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 70px;
+    font-weight: 700;
+    left: 98px;
+    line-height: normal;
+    position: absolute;
+    top: 95px;
+    padding: 30px;
+}
+
+.text-wrapper-2 {
+    color: #91bcc9;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 46px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    line-height: 68px;
+    position: absolute;
+    top: 95px;
+    white-space: nowrap;
+    padding: 30px;
+}
